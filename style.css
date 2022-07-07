@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.first-part{
+    text-align: center;
+    background-image: url("images/donation13.jpg");
+    padding: 100px 0;
+    width: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    color: white;
+}
+.first-part h1{
+   
+    font-size: 65px;
+}
+.first-part p{
+    font-size: 18px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.first-part a{
+    background-color: tomato;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
