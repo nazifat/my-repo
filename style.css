@@ -139,29 +139,39 @@ body{
 .fourth-part p{
    
     color: grey;
+    padding: 0 0 10px 0;
 }
 
 .subscribe-area input{
     border: 1px solid grey;
     border-radius: 2px;
     padding: 7px;
-    width: 20%;
+    width: 40%;
     font-size: 16px;
     height: 20px;
+    margin-top: 20px;
 }
 .subscribe-area{
-    padding: 20px 0;
+    padding: 50px 20px;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-color: bisque;
+
 }
 .subscribe-area a{
-    border: 5px solid tomato;
+
+    /* border: 5px solid tomato; */
     border-radius: 0px 5px 5px 0;
     background-color: tomato;
     color: white;
-    padding: 5px 2px;
+    padding: 7px 5px;
     text-decoration: none;
     margin-left: -2%;
-    width: 5%;
+    width: 100px;
     height: 20px;
+    margin-top: 20px;
 }
 .footer{
    
