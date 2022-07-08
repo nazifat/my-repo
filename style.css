@@ -124,7 +124,45 @@ body{
     font-size: 40px;
 }
 
+.fourth-part{
+    height: 400px;
+    text-align: center;
 
+}
+
+.fourth-part h1{
+    font-size: 40px;
+
+
+}
+
+.fourth-part p{
+   
+    color: grey;
+}
+
+.subscribe-area input{
+    border: 1px solid grey;
+    border-radius: 2px;
+    padding: 7px;
+    width: 20%;
+    font-size: 16px;
+    height: 20px;
+}
+.subscribe-area{
+    padding: 20px 0;
+}
+.subscribe-area a{
+    border: 5px solid tomato;
+    border-radius: 0px 5px 5px 0;
+    background-color: tomato;
+    color: white;
+    padding: 5px 2px;
+    text-decoration: none;
+    margin-left: -2%;
+    width: 5%;
+    height: 20px;
+}
 .footer{
    
     background-color: black;
